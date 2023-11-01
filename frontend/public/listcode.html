@@ -1,0 +1,21 @@
+<section>
+  <form onSubmit={handleSubmit}>
+    <Heading>
+      Make A List!
+    </Heading>
+    <Input placeholder='Description' size='lg' value={description} onChange={handleChange} />
+    <input type="text" name="description" id="description" value={description} onChange={handleChange}>
+    </input>
+    <button type="submit">Submit</button>
+  </form>
+  <UnorderedList>
+    {eventsList.map(event => {
+    return (
+    <ListItem key={event.id}>{event.description}</ListItem>
+    )
+    })}
+  </UnorderedList>
+</section>
+<section>
+
+</section>

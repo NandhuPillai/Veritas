@@ -1,0 +1,1 @@
+Veritas: The fight against misinformation - simplified.
