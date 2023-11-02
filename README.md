@@ -1,2 +1,2 @@
 # Veritas
- AI-Powered Misinformation Dectector. Application made for MD District 08 for Congressional App Challenge
+ AI-Powered Misinformation Dectector. Application made for MD District 03 for Congressional App Challenge
